@@ -1,0 +1,2 @@
+class ApiClientException(Exception):
+    pass
